@@ -1,0 +1,1005 @@
+\begin{theindex}
+
+  \item {\_\_init\_\_}
+    \subitem {BlinkersInterface}, \hyperpage{25}
+    \subitem {ControlSubscriber}, \hyperpage{40}
+    \subitem {ImagePublisher}, \hyperpage{42}
+    \subitem {ImageSubscriber}, \hyperpage{45}
+    \subitem {MotorInterface}, \hyperpage{47}
+    \subitem {OledInterface}, \hyperpage{48}
+    \subitem {Roboclaw}, \hyperpage{52}
+    \subitem {SteeringInterface}, \hyperpage{92}
+  \item {\_crc}
+    \subitem {Roboclaw}, \hyperpage{91}
+  \item {\_port}
+    \subitem {Roboclaw}, \hyperpage{91}
+  \item {\_read1}
+    \subitem {Roboclaw}, \hyperpage{53}
+  \item {\_read2}
+    \subitem {Roboclaw}, \hyperpage{53}
+  \item {\_read4}
+    \subitem {Roboclaw}, \hyperpage{53}
+  \item {\_read4\_1}
+    \subitem {Roboclaw}, \hyperpage{54}
+  \item {\_read\_n}
+    \subitem {Roboclaw}, \hyperpage{54}
+  \item {\_readbyte}
+    \subitem {Roboclaw}, \hyperpage{54}
+  \item {\_readchecksumword}
+    \subitem {Roboclaw}, \hyperpage{55}
+  \item {\_readlong}
+    \subitem {Roboclaw}, \hyperpage{55}
+  \item {\_readslong}
+    \subitem {Roboclaw}, \hyperpage{55}
+  \item {\_readword}
+    \subitem {Roboclaw}, \hyperpage{55}
+  \item {\_sendcommand}
+    \subitem {Roboclaw}, \hyperpage{56}
+  \item {\_trystimeout}
+    \subitem {Roboclaw}, \hyperpage{91}
+  \item {\_write0}
+    \subitem {Roboclaw}, \hyperpage{56}
+  \item {\_write1}
+    \subitem {Roboclaw}, \hyperpage{56}
+  \item {\_write11}
+    \subitem {Roboclaw}, \hyperpage{56}
+  \item {\_write111}
+    \subitem {Roboclaw}, \hyperpage{57}
+  \item {\_write2}
+    \subitem {Roboclaw}, \hyperpage{57}
+  \item {\_write22}
+    \subitem {Roboclaw}, \hyperpage{57}
+  \item {\_write4}
+    \subitem {Roboclaw}, \hyperpage{58}
+  \item {\_write44}
+    \subitem {Roboclaw}, \hyperpage{58}
+  \item {\_write441}
+    \subitem {Roboclaw}, \hyperpage{58}
+  \item {\_write4444}
+    \subitem {Roboclaw}, \hyperpage{59}
+  \item {\_write44441}
+    \subitem {Roboclaw}, \hyperpage{59}
+  \item {\_write4444444}
+    \subitem {Roboclaw}, \hyperpage{60}
+  \item {\_write444444441}
+    \subitem {Roboclaw}, \hyperpage{60}
+  \item {\_write4S4}
+    \subitem {Roboclaw}, \hyperpage{61}
+  \item {\_write4S441}
+    \subitem {Roboclaw}, \hyperpage{61}
+  \item {\_write4S444S441}
+    \subitem {Roboclaw}, \hyperpage{61}
+  \item {\_write4S44S4}
+    \subitem {Roboclaw}, \hyperpage{62}
+  \item {\_write4S44S441}
+    \subitem {Roboclaw}, \hyperpage{62}
+  \item {\_write4S4S4}
+    \subitem {Roboclaw}, \hyperpage{63}
+  \item {\_writeS2}
+    \subitem {Roboclaw}, \hyperpage{64}
+  \item {\_writeS22}
+    \subitem {Roboclaw}, \hyperpage{64}
+  \item {\_writeS24}
+    \subitem {Roboclaw}, \hyperpage{64}
+  \item {\_writeS24S24}
+    \subitem {Roboclaw}, \hyperpage{65}
+  \item {\_writeS2S2}
+    \subitem {Roboclaw}, \hyperpage{65}
+  \item {\_writeS4}
+    \subitem {Roboclaw}, \hyperpage{65}
+  \item {\_writeS441}
+    \subitem {Roboclaw}, \hyperpage{66}
+  \item {\_writeS44S441}
+    \subitem {Roboclaw}, \hyperpage{66}
+  \item {\_writeS4S4}
+    \subitem {Roboclaw}, \hyperpage{66}
+  \item {\_writebyte}
+    \subitem {Roboclaw}, \hyperpage{63}
+  \item {\_writechecksum}
+    \subitem {Roboclaw}, \hyperpage{63}
+  \item {\_writelong}
+    \subitem {Roboclaw}, \hyperpage{64}
+  \item {\_writesbyte}
+    \subitem {Roboclaw}, \hyperpage{67}
+  \item {\_writeslong}
+    \subitem {Roboclaw}, \hyperpage{67}
+  \item {\_writesword}
+    \subitem {Roboclaw}, \hyperpage{67}
+  \item {\_writeword}
+    \subitem {Roboclaw}, \hyperpage{67}
+
+  \indexspace
+
+  \item {BackwardM1}
+    \subitem {Roboclaw}, \hyperpage{68}
+  \item {BackwardM2}
+    \subitem {Roboclaw}, \hyperpage{68}
+  \item {BackwardMixed}
+    \subitem {Roboclaw}, \hyperpage{68}
+  \item {blinkers\_callback}
+    \subitem {BlinkersInterface}, \hyperpage{26}
+  \item {blinkers\_interface}, \hyperpage{13}
+    \subitem {gpio\_pin}, \hyperpage{13}
+    \subitem {main}, \hyperpage{13}
+  \item {BlinkersInterface}, \hyperpage{25}
+    \subitem {\_\_init\_\_}, \hyperpage{25}
+    \subitem {blinkers\_callback}, \hyperpage{26}
+    \subitem {subscription}, \hyperpage{26}
+  \item {bottom}
+    \subitem {oled\_interface}, \hyperpage{16}
+  \item {br}
+    \subitem {ImagePublisher}, \hyperpage{44}
+    \subitem {ImageSubscriber}, \hyperpage{46}
+
+  \indexspace
+
+  \item {cap}
+    \subitem {ImagePublisher}, \hyperpage{44}
+  \item {comport}
+    \subitem {Roboclaw}, \hyperpage{91}
+  \item {control\_callback}
+    \subitem {ControlSubscriber}, \hyperpage{41}
+  \item {controller}, \hyperpage{14}
+    \subitem {interface}, \hyperpage{14}
+    \subitem {main}, \hyperpage{14}
+    \subitem {roboclaw}, \hyperpage{14}
+  \item {ControlSubscriber}, \hyperpage{40}
+    \subitem {\_\_init\_\_}, \hyperpage{40}
+    \subitem {control\_callback}, \hyperpage{41}
+    \subitem {speed\_publisher}, \hyperpage{41}
+    \subitem {steering\_publisher}, \hyperpage{41}
+    \subitem {subscription}, \hyperpage{41}
+  \item {crc\_clear}
+    \subitem {Roboclaw}, \hyperpage{68}
+  \item {crc\_update}
+    \subitem {Roboclaw}, \hyperpage{68}
+
+  \indexspace
+
+  \item {data\_files}
+    \subitem {setup}, \hyperpage{20}
+  \item {DC}
+    \subitem {oled\_interface}, \hyperpage{17}
+  \item {description}
+    \subitem {setup}, \hyperpage{20}
+  \item {disp}
+    \subitem {oled\_interface}, \hyperpage{17}
+  \item {draw}
+    \subitem {oled\_interface}, \hyperpage{17}
+  \item {DutyAccelM1}
+    \subitem {Roboclaw}, \hyperpage{69}
+  \item {DutyAccelM1M2}
+    \subitem {Roboclaw}, \hyperpage{69}
+  \item {DutyAccelM2}
+    \subitem {Roboclaw}, \hyperpage{69}
+  \item {DutyM1}
+    \subitem {Roboclaw}, \hyperpage{69}
+  \item {DutyM1M2}
+    \subitem {Roboclaw}, \hyperpage{70}
+  \item {DutyM2}
+    \subitem {Roboclaw}, \hyperpage{70}
+
+  \indexspace
+
+  \item {entry\_points}
+    \subitem {setup}, \hyperpage{20}
+
+  \indexspace
+
+  \item {fill}
+    \subitem {oled\_interface}, \hyperpage{17}
+  \item {FLAGBOOTLOADER}
+    \subitem {Roboclaw.Cmd}, \hyperpage{28}
+  \item {font}
+    \subitem {oled\_interface}, \hyperpage{17}
+  \item {ForwardBackwardM1}
+    \subitem {Roboclaw}, \hyperpage{70}
+  \item {ForwardBackwardM2}
+    \subitem {Roboclaw}, \hyperpage{70}
+  \item {ForwardBackwardMixed}
+    \subitem {Roboclaw}, \hyperpage{70}
+  \item {ForwardM1}
+    \subitem {Roboclaw}, \hyperpage{71}
+  \item {ForwardM2}
+    \subitem {Roboclaw}, \hyperpage{71}
+  \item {ForwardMixed}
+    \subitem {Roboclaw}, \hyperpage{71}
+
+  \indexspace
+
+  \item {GETBUFFERS}
+    \subitem {Roboclaw.Cmd}, \hyperpage{28}
+  \item {GETCONFIG}
+    \subitem {Roboclaw.Cmd}, \hyperpage{28}
+  \item {GetConfig}
+    \subitem {Roboclaw}, \hyperpage{71}
+  \item {GETCURRENTS}
+    \subitem {Roboclaw.Cmd}, \hyperpage{29}
+  \item {GETDEADBAND}
+    \subitem {Roboclaw.Cmd}, \hyperpage{29}
+  \item {GetDeadBand}
+    \subitem {Roboclaw}, \hyperpage{71}
+  \item {GETENCODERMODE}
+    \subitem {Roboclaw.Cmd}, \hyperpage{29}
+  \item {GETERROR}
+    \subitem {Roboclaw.Cmd}, \hyperpage{29}
+  \item {GETLBATT}
+    \subitem {Roboclaw.Cmd}, \hyperpage{29}
+  \item {GETM1ENC}
+    \subitem {Roboclaw.Cmd}, \hyperpage{29}
+  \item {GETM1ISPEED}
+    \subitem {Roboclaw.Cmd}, \hyperpage{29}
+  \item {GETM1MAXCURRENT}
+    \subitem {Roboclaw.Cmd}, \hyperpage{29}
+  \item {GETM1SPEED}
+    \subitem {Roboclaw.Cmd}, \hyperpage{30}
+  \item {GETM2ENC}
+    \subitem {Roboclaw.Cmd}, \hyperpage{30}
+  \item {GETM2ISPEED}
+    \subitem {Roboclaw.Cmd}, \hyperpage{30}
+  \item {GETM2MAXCURRENT}
+    \subitem {Roboclaw.Cmd}, \hyperpage{30}
+  \item {GETM2SPEED}
+    \subitem {Roboclaw.Cmd}, \hyperpage{30}
+  \item {GETMBATT}
+    \subitem {Roboclaw.Cmd}, \hyperpage{30}
+  \item {GETMINMAXLOGICVOLTAGES}
+    \subitem {Roboclaw.Cmd}, \hyperpage{30}
+  \item {GETMINMAXMAINVOLTAGES}
+    \subitem {Roboclaw.Cmd}, \hyperpage{30}
+  \item {GETPINFUNCTIONS}
+    \subitem {Roboclaw.Cmd}, \hyperpage{31}
+  \item {GETPWMMODE}
+    \subitem {Roboclaw.Cmd}, \hyperpage{31}
+  \item {GETPWMS}
+    \subitem {Roboclaw.Cmd}, \hyperpage{31}
+  \item {GETTEMP}
+    \subitem {Roboclaw.Cmd}, \hyperpage{31}
+  \item {GETTEMP2}
+    \subitem {Roboclaw.Cmd}, \hyperpage{31}
+  \item {GETVERSION}
+    \subitem {Roboclaw.Cmd}, \hyperpage{31}
+  \item {gpio\_pin}
+    \subitem {blinkers\_interface}, \hyperpage{13}
+
+  \indexspace
+
+  \item {height}
+    \subitem {oled\_interface}, \hyperpage{17}
+
+  \indexspace
+
+  \item {image}
+    \subitem {oled\_interface}, \hyperpage{17}
+  \item {ImagePublisher}, \hyperpage{42}
+    \subitem {\_\_init\_\_}, \hyperpage{42}
+    \subitem {br}, \hyperpage{44}
+    \subitem {cap}, \hyperpage{44}
+    \subitem {publisher\_}, \hyperpage{44}
+    \subitem {timer}, \hyperpage{44}
+    \subitem {timer\_callback}, \hyperpage{43}
+  \item {ImageSubscriber}, \hyperpage{44}
+    \subitem {\_\_init\_\_}, \hyperpage{45}
+    \subitem {br}, \hyperpage{46}
+    \subitem {listener\_callback}, \hyperpage{45}
+    \subitem {subscription}, \hyperpage{46}
+  \item {install\_requires}
+    \subitem {setup}, \hyperpage{20}
+  \item {interface}
+    \subitem {controller}, \hyperpage{14}
+
+  \indexspace
+
+  \item {LeftRightMixed}
+    \subitem {Roboclaw}, \hyperpage{72}
+  \item {license}
+    \subitem {setup}, \hyperpage{20}
+  \item {listener\_callback}
+    \subitem {ImageSubscriber}, \hyperpage{45}
+
+  \indexspace
+
+  \item {M17BIT}
+    \subitem {Roboclaw.Cmd}, \hyperpage{31}
+  \item {M1BACKWARD}
+    \subitem {Roboclaw.Cmd}, \hyperpage{31}
+  \item {M1DUTY}
+    \subitem {Roboclaw.Cmd}, \hyperpage{32}
+  \item {M1DUTYACCEL}
+    \subitem {Roboclaw.Cmd}, \hyperpage{32}
+  \item {M1FORWARD}
+    \subitem {Roboclaw.Cmd}, \hyperpage{32}
+  \item {M1SPEED}
+    \subitem {Roboclaw.Cmd}, \hyperpage{32}
+  \item {M1SPEEDACCEL}
+    \subitem {Roboclaw.Cmd}, \hyperpage{32}
+  \item {M1SPEEDACCELDECCELPOS}
+    \subitem {Roboclaw.Cmd}, \hyperpage{32}
+  \item {M1SPEEDACCELDIST}
+    \subitem {Roboclaw.Cmd}, \hyperpage{32}
+  \item {M1SPEEDDIST}
+    \subitem {Roboclaw.Cmd}, \hyperpage{32}
+  \item {M27BIT}
+    \subitem {Roboclaw.Cmd}, \hyperpage{33}
+  \item {M2BACKWARD}
+    \subitem {Roboclaw.Cmd}, \hyperpage{33}
+  \item {M2DUTY}
+    \subitem {Roboclaw.Cmd}, \hyperpage{33}
+  \item {M2DUTYACCEL}
+    \subitem {Roboclaw.Cmd}, \hyperpage{33}
+  \item {M2FORWARD}
+    \subitem {Roboclaw.Cmd}, \hyperpage{33}
+  \item {M2SPEED}
+    \subitem {Roboclaw.Cmd}, \hyperpage{33}
+  \item {M2SPEEDACCEL}
+    \subitem {Roboclaw.Cmd}, \hyperpage{33}
+  \item {M2SPEEDACCELDECCELPOS}
+    \subitem {Roboclaw.Cmd}, \hyperpage{33}
+  \item {M2SPEEDACCELDIST}
+    \subitem {Roboclaw.Cmd}, \hyperpage{34}
+  \item {M2SPEEDDIST}
+    \subitem {Roboclaw.Cmd}, \hyperpage{34}
+  \item {main}
+    \subitem {blinkers\_interface}, \hyperpage{13}
+    \subitem {controller}, \hyperpage{14}
+    \subitem {motor\_interface}, \hyperpage{15}
+    \subitem {oled\_interface}, \hyperpage{16}
+    \subitem {servo\_interface}, \hyperpage{19}
+    \subitem {webcam\_pub}, \hyperpage{22}
+    \subitem {webcam\_sub}, \hyperpage{23}
+  \item {main\_ws/src/toxic\_hardware/setup.py}, \hyperpage{95}
+  \item {main\_ws/src/toxic\_hardware/toxic\_hardware/blinkers\_interface.py}, 
+		\hyperpage{95}
+  \item {main\_ws/src/toxic\_hardware/toxic\_hardware/controller.py}, 
+		\hyperpage{96}
+  \item {main\_ws/src/toxic\_hardware/toxic\_hardware/motor\_interface.py}, 
+		\hyperpage{96}
+  \item {main\_ws/src/toxic\_hardware/toxic\_hardware/oled\_interface.py}, 
+		\hyperpage{97}
+  \item {main\_ws/src/toxic\_hardware/toxic\_hardware/roboclaw\_3.py}, 
+		\hyperpage{98}
+  \item {main\_ws/src/toxic\_hardware/toxic\_hardware/servo\_interface.py}, 
+		\hyperpage{98}
+  \item {main\_ws/src/toxic\_vision/setup.py}, \hyperpage{95}
+  \item {main\_ws/src/toxic\_vision/toxic\_vision/webcam\_pub.py}, 
+		\hyperpage{98}
+  \item {main\_ws/src/toxic\_vision/toxic\_vision/webcam\_sub.py}, 
+		\hyperpage{99}
+  \item {maintainer}
+    \subitem {setup}, \hyperpage{21}
+  \item {maintainer\_email}
+    \subitem {setup}, \hyperpage{21}
+  \item {MIXEDBACKWARD}
+    \subitem {Roboclaw.Cmd}, \hyperpage{34}
+  \item {MIXEDDUTY}
+    \subitem {Roboclaw.Cmd}, \hyperpage{34}
+  \item {MIXEDDUTYACCEL}
+    \subitem {Roboclaw.Cmd}, \hyperpage{34}
+  \item {MIXEDFB}
+    \subitem {Roboclaw.Cmd}, \hyperpage{34}
+  \item {MIXEDFORWARD}
+    \subitem {Roboclaw.Cmd}, \hyperpage{34}
+  \item {MIXEDLEFT}
+    \subitem {Roboclaw.Cmd}, \hyperpage{34}
+  \item {MIXEDLR}
+    \subitem {Roboclaw.Cmd}, \hyperpage{35}
+  \item {MIXEDRIGHT}
+    \subitem {Roboclaw.Cmd}, \hyperpage{35}
+  \item {MIXEDSPEED}
+    \subitem {Roboclaw.Cmd}, \hyperpage{35}
+  \item {MIXEDSPEED2ACCEL}
+    \subitem {Roboclaw.Cmd}, \hyperpage{35}
+  \item {MIXEDSPEED2ACCELDIST}
+    \subitem {Roboclaw.Cmd}, \hyperpage{35}
+  \item {MIXEDSPEEDACCEL}
+    \subitem {Roboclaw.Cmd}, \hyperpage{35}
+  \item {MIXEDSPEEDACCELDECCELPOS}
+    \subitem {Roboclaw.Cmd}, \hyperpage{35}
+  \item {MIXEDSPEEDACCELDIST}
+    \subitem {Roboclaw.Cmd}, \hyperpage{35}
+  \item {MIXEDSPEEDDIST}
+    \subitem {Roboclaw.Cmd}, \hyperpage{36}
+  \item {motor\_callback}
+    \subitem {MotorInterface}, \hyperpage{47}
+  \item {motor\_interface}, \hyperpage{15}
+    \subitem {main}, \hyperpage{15}
+    \subitem {roboclaw}, \hyperpage{15}
+  \item {MotorInterface}, \hyperpage{46}
+    \subitem {\_\_init\_\_}, \hyperpage{47}
+    \subitem {motor\_callback}, \hyperpage{47}
+    \subitem {subscription}, \hyperpage{47}
+
+  \indexspace
+
+  \item {name}
+    \subitem {setup}, \hyperpage{21}
+
+  \indexspace
+
+  \item {oled\_callback}
+    \subitem {OledInterface}, \hyperpage{48}
+  \item {oled\_interface}, \hyperpage{16}
+    \subitem {bottom}, \hyperpage{16}
+    \subitem {DC}, \hyperpage{17}
+    \subitem {disp}, \hyperpage{17}
+    \subitem {draw}, \hyperpage{17}
+    \subitem {fill}, \hyperpage{17}
+    \subitem {font}, \hyperpage{17}
+    \subitem {height}, \hyperpage{17}
+    \subitem {image}, \hyperpage{17}
+    \subitem {main}, \hyperpage{16}
+    \subitem {outline}, \hyperpage{17}
+    \subitem {padding}, \hyperpage{18}
+    \subitem {RST}, \hyperpage{18}
+    \subitem {SPI\_DEVICE}, \hyperpage{18}
+    \subitem {SPI\_PORT}, \hyperpage{18}
+    \subitem {top}, \hyperpage{18}
+    \subitem {width}, \hyperpage{18}
+    \subitem {x}, \hyperpage{18}
+  \item {OledInterface}, \hyperpage{48}
+    \subitem {\_\_init\_\_}, \hyperpage{48}
+    \subitem {oled\_callback}, \hyperpage{48}
+    \subitem {subscription}, \hyperpage{49}
+  \item {Open}
+    \subitem {Roboclaw}, \hyperpage{72}
+  \item {outline}
+    \subitem {oled\_interface}, \hyperpage{17}
+
+  \indexspace
+
+  \item {package\_name}
+    \subitem {setup}, \hyperpage{21}
+  \item {packages}
+    \subitem {setup}, \hyperpage{21}
+  \item {padding}
+    \subitem {oled\_interface}, \hyperpage{18}
+  \item {publisher\_}
+    \subitem {ImagePublisher}, \hyperpage{44}
+
+  \indexspace
+
+  \item {rate}
+    \subitem {Roboclaw}, \hyperpage{91}
+  \item {ReadBuffers}
+    \subitem {Roboclaw}, \hyperpage{72}
+  \item {ReadCurrents}
+    \subitem {Roboclaw}, \hyperpage{72}
+  \item {READEEPROM}
+    \subitem {Roboclaw.Cmd}, \hyperpage{36}
+  \item {ReadEeprom}
+    \subitem {Roboclaw}, \hyperpage{73}
+  \item {ReadEncM1}
+    \subitem {Roboclaw}, \hyperpage{73}
+  \item {ReadEncM2}
+    \subitem {Roboclaw}, \hyperpage{73}
+  \item {ReadEncoderModes}
+    \subitem {Roboclaw}, \hyperpage{73}
+  \item {ReadError}
+    \subitem {Roboclaw}, \hyperpage{74}
+  \item {ReadISpeedM1}
+    \subitem {Roboclaw}, \hyperpage{74}
+  \item {ReadISpeedM2}
+    \subitem {Roboclaw}, \hyperpage{74}
+  \item {ReadLogicBatteryVoltage}
+    \subitem {Roboclaw}, \hyperpage{74}
+  \item {ReadM1MaxCurrent}
+    \subitem {Roboclaw}, \hyperpage{74}
+  \item {READM1PID}
+    \subitem {Roboclaw.Cmd}, \hyperpage{36}
+  \item {ReadM1PositionPID}
+    \subitem {Roboclaw}, \hyperpage{75}
+  \item {READM1POSPID}
+    \subitem {Roboclaw.Cmd}, \hyperpage{36}
+  \item {ReadM1VelocityPID}
+    \subitem {Roboclaw}, \hyperpage{75}
+  \item {ReadM2MaxCurrent}
+    \subitem {Roboclaw}, \hyperpage{75}
+  \item {READM2PID}
+    \subitem {Roboclaw.Cmd}, \hyperpage{36}
+  \item {ReadM2PositionPID}
+    \subitem {Roboclaw}, \hyperpage{75}
+  \item {READM2POSPID}
+    \subitem {Roboclaw.Cmd}, \hyperpage{36}
+  \item {ReadM2VelocityPID}
+    \subitem {Roboclaw}, \hyperpage{76}
+  \item {ReadMainBatteryVoltage}
+    \subitem {Roboclaw}, \hyperpage{76}
+  \item {README.md}, \hyperpage{100}
+  \item {ReadMinMaxLogicVoltages}
+    \subitem {Roboclaw}, \hyperpage{76}
+  \item {ReadMinMaxMainVoltages}
+    \subitem {Roboclaw}, \hyperpage{76}
+  \item {READNVM}
+    \subitem {Roboclaw.Cmd}, \hyperpage{36}
+  \item {ReadNVM}
+    \subitem {Roboclaw}, \hyperpage{77}
+  \item {ReadPinFunctions}
+    \subitem {Roboclaw}, \hyperpage{77}
+  \item {ReadPWMMode}
+    \subitem {Roboclaw}, \hyperpage{77}
+  \item {ReadPWMs}
+    \subitem {Roboclaw}, \hyperpage{77}
+  \item {ReadSpeedM1}
+    \subitem {Roboclaw}, \hyperpage{78}
+  \item {ReadSpeedM2}
+    \subitem {Roboclaw}, \hyperpage{78}
+  \item {ReadTemp}
+    \subitem {Roboclaw}, \hyperpage{78}
+  \item {ReadTemp2}
+    \subitem {Roboclaw}, \hyperpage{78}
+  \item {ReadVersion}
+    \subitem {Roboclaw}, \hyperpage{78}
+  \item {RESETENC}
+    \subitem {Roboclaw.Cmd}, \hyperpage{36}
+  \item {ResetEncoders}
+    \subitem {Roboclaw}, \hyperpage{79}
+  \item {RESTOREDEFAULTS}
+    \subitem {Roboclaw.Cmd}, \hyperpage{37}
+  \item {RestoreDefaults}
+    \subitem {Roboclaw}, \hyperpage{79}
+  \item {Roboclaw}, \hyperpage{49}
+    \subitem {\_\_init\_\_}, \hyperpage{52}
+    \subitem {\_crc}, \hyperpage{91}
+    \subitem {\_port}, \hyperpage{91}
+    \subitem {\_read1}, \hyperpage{53}
+    \subitem {\_read2}, \hyperpage{53}
+    \subitem {\_read4}, \hyperpage{53}
+    \subitem {\_read4\_1}, \hyperpage{54}
+    \subitem {\_read\_n}, \hyperpage{54}
+    \subitem {\_readbyte}, \hyperpage{54}
+    \subitem {\_readchecksumword}, \hyperpage{55}
+    \subitem {\_readlong}, \hyperpage{55}
+    \subitem {\_readslong}, \hyperpage{55}
+    \subitem {\_readword}, \hyperpage{55}
+    \subitem {\_sendcommand}, \hyperpage{56}
+    \subitem {\_trystimeout}, \hyperpage{91}
+    \subitem {\_write0}, \hyperpage{56}
+    \subitem {\_write1}, \hyperpage{56}
+    \subitem {\_write11}, \hyperpage{56}
+    \subitem {\_write111}, \hyperpage{57}
+    \subitem {\_write2}, \hyperpage{57}
+    \subitem {\_write22}, \hyperpage{57}
+    \subitem {\_write4}, \hyperpage{58}
+    \subitem {\_write44}, \hyperpage{58}
+    \subitem {\_write441}, \hyperpage{58}
+    \subitem {\_write4444}, \hyperpage{59}
+    \subitem {\_write44441}, \hyperpage{59}
+    \subitem {\_write4444444}, \hyperpage{60}
+    \subitem {\_write444444441}, \hyperpage{60}
+    \subitem {\_write4S4}, \hyperpage{61}
+    \subitem {\_write4S441}, \hyperpage{61}
+    \subitem {\_write4S444S441}, \hyperpage{61}
+    \subitem {\_write4S44S4}, \hyperpage{62}
+    \subitem {\_write4S44S441}, \hyperpage{62}
+    \subitem {\_write4S4S4}, \hyperpage{63}
+    \subitem {\_writeS2}, \hyperpage{64}
+    \subitem {\_writeS22}, \hyperpage{64}
+    \subitem {\_writeS24}, \hyperpage{64}
+    \subitem {\_writeS24S24}, \hyperpage{65}
+    \subitem {\_writeS2S2}, \hyperpage{65}
+    \subitem {\_writeS4}, \hyperpage{65}
+    \subitem {\_writeS441}, \hyperpage{66}
+    \subitem {\_writeS44S441}, \hyperpage{66}
+    \subitem {\_writeS4S4}, \hyperpage{66}
+    \subitem {\_writebyte}, \hyperpage{63}
+    \subitem {\_writechecksum}, \hyperpage{63}
+    \subitem {\_writelong}, \hyperpage{64}
+    \subitem {\_writesbyte}, \hyperpage{67}
+    \subitem {\_writeslong}, \hyperpage{67}
+    \subitem {\_writesword}, \hyperpage{67}
+    \subitem {\_writeword}, \hyperpage{67}
+    \subitem {BackwardM1}, \hyperpage{68}
+    \subitem {BackwardM2}, \hyperpage{68}
+    \subitem {BackwardMixed}, \hyperpage{68}
+    \subitem {comport}, \hyperpage{91}
+    \subitem {crc\_clear}, \hyperpage{68}
+    \subitem {crc\_update}, \hyperpage{68}
+    \subitem {DutyAccelM1}, \hyperpage{69}
+    \subitem {DutyAccelM1M2}, \hyperpage{69}
+    \subitem {DutyAccelM2}, \hyperpage{69}
+    \subitem {DutyM1}, \hyperpage{69}
+    \subitem {DutyM1M2}, \hyperpage{70}
+    \subitem {DutyM2}, \hyperpage{70}
+    \subitem {ForwardBackwardM1}, \hyperpage{70}
+    \subitem {ForwardBackwardM2}, \hyperpage{70}
+    \subitem {ForwardBackwardMixed}, \hyperpage{70}
+    \subitem {ForwardM1}, \hyperpage{71}
+    \subitem {ForwardM2}, \hyperpage{71}
+    \subitem {ForwardMixed}, \hyperpage{71}
+    \subitem {GetConfig}, \hyperpage{71}
+    \subitem {GetDeadBand}, \hyperpage{71}
+    \subitem {LeftRightMixed}, \hyperpage{72}
+    \subitem {Open}, \hyperpage{72}
+    \subitem {rate}, \hyperpage{91}
+    \subitem {ReadBuffers}, \hyperpage{72}
+    \subitem {ReadCurrents}, \hyperpage{72}
+    \subitem {ReadEeprom}, \hyperpage{73}
+    \subitem {ReadEncM1}, \hyperpage{73}
+    \subitem {ReadEncM2}, \hyperpage{73}
+    \subitem {ReadEncoderModes}, \hyperpage{73}
+    \subitem {ReadError}, \hyperpage{74}
+    \subitem {ReadISpeedM1}, \hyperpage{74}
+    \subitem {ReadISpeedM2}, \hyperpage{74}
+    \subitem {ReadLogicBatteryVoltage}, \hyperpage{74}
+    \subitem {ReadM1MaxCurrent}, \hyperpage{74}
+    \subitem {ReadM1PositionPID}, \hyperpage{75}
+    \subitem {ReadM1VelocityPID}, \hyperpage{75}
+    \subitem {ReadM2MaxCurrent}, \hyperpage{75}
+    \subitem {ReadM2PositionPID}, \hyperpage{75}
+    \subitem {ReadM2VelocityPID}, \hyperpage{76}
+    \subitem {ReadMainBatteryVoltage}, \hyperpage{76}
+    \subitem {ReadMinMaxLogicVoltages}, \hyperpage{76}
+    \subitem {ReadMinMaxMainVoltages}, \hyperpage{76}
+    \subitem {ReadNVM}, \hyperpage{77}
+    \subitem {ReadPinFunctions}, \hyperpage{77}
+    \subitem {ReadPWMMode}, \hyperpage{77}
+    \subitem {ReadPWMs}, \hyperpage{77}
+    \subitem {ReadSpeedM1}, \hyperpage{78}
+    \subitem {ReadSpeedM2}, \hyperpage{78}
+    \subitem {ReadTemp}, \hyperpage{78}
+    \subitem {ReadTemp2}, \hyperpage{78}
+    \subitem {ReadVersion}, \hyperpage{78}
+    \subitem {ResetEncoders}, \hyperpage{79}
+    \subitem {RestoreDefaults}, \hyperpage{79}
+    \subitem {SendRandomData}, \hyperpage{79}
+    \subitem {SetConfig}, \hyperpage{80}
+    \subitem {SetDeadBand}, \hyperpage{80}
+    \subitem {SetEncM1}, \hyperpage{80}
+    \subitem {SetEncM2}, \hyperpage{80}
+    \subitem {SetLogicVoltages}, \hyperpage{81}
+    \subitem {SetM1DefaultAccel}, \hyperpage{81}
+    \subitem {SetM1EncoderMode}, \hyperpage{81}
+    \subitem {SetM1MaxCurrent}, \hyperpage{81}
+    \subitem {SetM1PositionPID}, \hyperpage{81}
+    \subitem {SetM1VelocityPID}, \hyperpage{82}
+    \subitem {SetM2DefaultAccel}, \hyperpage{82}
+    \subitem {SetM2EncoderMode}, \hyperpage{82}
+    \subitem {SetM2MaxCurrent}, \hyperpage{82}
+    \subitem {SetM2PositionPID}, \hyperpage{83}
+    \subitem {SetM2VelocityPID}, \hyperpage{83}
+    \subitem {SetMainVoltages}, \hyperpage{83}
+    \subitem {SetMaxVoltageLogicBattery}, \hyperpage{83}
+    \subitem {SetMaxVoltageMainBattery}, \hyperpage{84}
+    \subitem {SetMinVoltageLogicBattery}, \hyperpage{84}
+    \subitem {SetMinVoltageMainBattery}, \hyperpage{84}
+    \subitem {SetPinFunctions}, \hyperpage{84}
+    \subitem {SetPWMMode}, \hyperpage{84}
+    \subitem {SpeedAccelDeccelPositionM1}, \hyperpage{85}
+    \subitem {SpeedAccelDeccelPositionM1M2}, \hyperpage{85}
+    \subitem {SpeedAccelDeccelPositionM2}, \hyperpage{85}
+    \subitem {SpeedAccelDistanceM1}, \hyperpage{86}
+    \subitem {SpeedAccelDistanceM1M2}, \hyperpage{86}
+    \subitem {SpeedAccelDistanceM1M2\_2}, \hyperpage{86}
+    \subitem {SpeedAccelDistanceM2}, \hyperpage{87}
+    \subitem {SpeedAccelM1}, \hyperpage{87}
+    \subitem {SpeedAccelM1M2}, \hyperpage{87}
+    \subitem {SpeedAccelM1M2\_2}, \hyperpage{87}
+    \subitem {SpeedAccelM2}, \hyperpage{88}
+    \subitem {SpeedDistanceM1}, \hyperpage{88}
+    \subitem {SpeedDistanceM1M2}, \hyperpage{88}
+    \subitem {SpeedDistanceM2}, \hyperpage{88}
+    \subitem {SpeedM1}, \hyperpage{89}
+    \subitem {SpeedM1M2}, \hyperpage{89}
+    \subitem {SpeedM2}, \hyperpage{89}
+    \subitem {timeout}, \hyperpage{91}
+    \subitem {TurnLeftMixed}, \hyperpage{89}
+    \subitem {TurnRightMixed}, \hyperpage{90}
+    \subitem {WriteEeprom}, \hyperpage{90}
+    \subitem {WriteNVM}, \hyperpage{90}
+  \item {roboclaw}
+    \subitem {controller}, \hyperpage{14}
+    \subitem {motor\_interface}, \hyperpage{15}
+  \item {Roboclaw.Cmd}, \hyperpage{26}
+    \subitem {FLAGBOOTLOADER}, \hyperpage{28}
+    \subitem {GETBUFFERS}, \hyperpage{28}
+    \subitem {GETCONFIG}, \hyperpage{28}
+    \subitem {GETCURRENTS}, \hyperpage{29}
+    \subitem {GETDEADBAND}, \hyperpage{29}
+    \subitem {GETENCODERMODE}, \hyperpage{29}
+    \subitem {GETERROR}, \hyperpage{29}
+    \subitem {GETLBATT}, \hyperpage{29}
+    \subitem {GETM1ENC}, \hyperpage{29}
+    \subitem {GETM1ISPEED}, \hyperpage{29}
+    \subitem {GETM1MAXCURRENT}, \hyperpage{29}
+    \subitem {GETM1SPEED}, \hyperpage{30}
+    \subitem {GETM2ENC}, \hyperpage{30}
+    \subitem {GETM2ISPEED}, \hyperpage{30}
+    \subitem {GETM2MAXCURRENT}, \hyperpage{30}
+    \subitem {GETM2SPEED}, \hyperpage{30}
+    \subitem {GETMBATT}, \hyperpage{30}
+    \subitem {GETMINMAXLOGICVOLTAGES}, \hyperpage{30}
+    \subitem {GETMINMAXMAINVOLTAGES}, \hyperpage{30}
+    \subitem {GETPINFUNCTIONS}, \hyperpage{31}
+    \subitem {GETPWMMODE}, \hyperpage{31}
+    \subitem {GETPWMS}, \hyperpage{31}
+    \subitem {GETTEMP}, \hyperpage{31}
+    \subitem {GETTEMP2}, \hyperpage{31}
+    \subitem {GETVERSION}, \hyperpage{31}
+    \subitem {M17BIT}, \hyperpage{31}
+    \subitem {M1BACKWARD}, \hyperpage{31}
+    \subitem {M1DUTY}, \hyperpage{32}
+    \subitem {M1DUTYACCEL}, \hyperpage{32}
+    \subitem {M1FORWARD}, \hyperpage{32}
+    \subitem {M1SPEED}, \hyperpage{32}
+    \subitem {M1SPEEDACCEL}, \hyperpage{32}
+    \subitem {M1SPEEDACCELDECCELPOS}, \hyperpage{32}
+    \subitem {M1SPEEDACCELDIST}, \hyperpage{32}
+    \subitem {M1SPEEDDIST}, \hyperpage{32}
+    \subitem {M27BIT}, \hyperpage{33}
+    \subitem {M2BACKWARD}, \hyperpage{33}
+    \subitem {M2DUTY}, \hyperpage{33}
+    \subitem {M2DUTYACCEL}, \hyperpage{33}
+    \subitem {M2FORWARD}, \hyperpage{33}
+    \subitem {M2SPEED}, \hyperpage{33}
+    \subitem {M2SPEEDACCEL}, \hyperpage{33}
+    \subitem {M2SPEEDACCELDECCELPOS}, \hyperpage{33}
+    \subitem {M2SPEEDACCELDIST}, \hyperpage{34}
+    \subitem {M2SPEEDDIST}, \hyperpage{34}
+    \subitem {MIXEDBACKWARD}, \hyperpage{34}
+    \subitem {MIXEDDUTY}, \hyperpage{34}
+    \subitem {MIXEDDUTYACCEL}, \hyperpage{34}
+    \subitem {MIXEDFB}, \hyperpage{34}
+    \subitem {MIXEDFORWARD}, \hyperpage{34}
+    \subitem {MIXEDLEFT}, \hyperpage{34}
+    \subitem {MIXEDLR}, \hyperpage{35}
+    \subitem {MIXEDRIGHT}, \hyperpage{35}
+    \subitem {MIXEDSPEED}, \hyperpage{35}
+    \subitem {MIXEDSPEED2ACCEL}, \hyperpage{35}
+    \subitem {MIXEDSPEED2ACCELDIST}, \hyperpage{35}
+    \subitem {MIXEDSPEEDACCEL}, \hyperpage{35}
+    \subitem {MIXEDSPEEDACCELDECCELPOS}, \hyperpage{35}
+    \subitem {MIXEDSPEEDACCELDIST}, \hyperpage{35}
+    \subitem {MIXEDSPEEDDIST}, \hyperpage{36}
+    \subitem {READEEPROM}, \hyperpage{36}
+    \subitem {READM1PID}, \hyperpage{36}
+    \subitem {READM1POSPID}, \hyperpage{36}
+    \subitem {READM2PID}, \hyperpage{36}
+    \subitem {READM2POSPID}, \hyperpage{36}
+    \subitem {READNVM}, \hyperpage{36}
+    \subitem {RESETENC}, \hyperpage{36}
+    \subitem {RESTOREDEFAULTS}, \hyperpage{37}
+    \subitem {SETCONFIG}, \hyperpage{37}
+    \subitem {SETDEADBAND}, \hyperpage{37}
+    \subitem {SETLOGICVOLTAGES}, \hyperpage{37}
+    \subitem {SETM1DEFAULTACCEL}, \hyperpage{37}
+    \subitem {SETM1ENCCOUNT}, \hyperpage{37}
+    \subitem {SETM1ENCODERMODE}, \hyperpage{37}
+    \subitem {SETM1MAXCURRENT}, \hyperpage{37}
+    \subitem {SETM1PID}, \hyperpage{38}
+    \subitem {SETM1POSPID}, \hyperpage{38}
+    \subitem {SETM2DEFAULTACCEL}, \hyperpage{38}
+    \subitem {SETM2ENCCOUNT}, \hyperpage{38}
+    \subitem {SETM2ENCODERMODE}, \hyperpage{38}
+    \subitem {SETM2MAXCURRENT}, \hyperpage{38}
+    \subitem {SETM2PID}, \hyperpage{38}
+    \subitem {SETM2POSPID}, \hyperpage{38}
+    \subitem {SETMAINVOLTAGES}, \hyperpage{39}
+    \subitem {SETMAXLB}, \hyperpage{39}
+    \subitem {SETMAXMB}, \hyperpage{39}
+    \subitem {SETMINLB}, \hyperpage{39}
+    \subitem {SETMINMB}, \hyperpage{39}
+    \subitem {SETPINFUNCTIONS}, \hyperpage{39}
+    \subitem {SETPWMMODE}, \hyperpage{39}
+    \subitem {WRITEEEPROM}, \hyperpage{39}
+    \subitem {WRITENVM}, \hyperpage{40}
+  \item {roboclaw\_3}, \hyperpage{19}
+  \item {RST}
+    \subitem {oled\_interface}, \hyperpage{18}
+
+  \indexspace
+
+  \item {SendRandomData}
+    \subitem {Roboclaw}, \hyperpage{79}
+  \item {servo\_interface}, \hyperpage{19}
+    \subitem {main}, \hyperpage{19}
+    \subitem {servo\_pin}, \hyperpage{19}
+  \item {servo\_pin}
+    \subitem {servo\_interface}, \hyperpage{19}
+  \item {SETCONFIG}
+    \subitem {Roboclaw.Cmd}, \hyperpage{37}
+  \item {SetConfig}
+    \subitem {Roboclaw}, \hyperpage{80}
+  \item {SETDEADBAND}
+    \subitem {Roboclaw.Cmd}, \hyperpage{37}
+  \item {SetDeadBand}
+    \subitem {Roboclaw}, \hyperpage{80}
+  \item {SetEncM1}
+    \subitem {Roboclaw}, \hyperpage{80}
+  \item {SetEncM2}
+    \subitem {Roboclaw}, \hyperpage{80}
+  \item {SETLOGICVOLTAGES}
+    \subitem {Roboclaw.Cmd}, \hyperpage{37}
+  \item {SetLogicVoltages}
+    \subitem {Roboclaw}, \hyperpage{81}
+  \item {SETM1DEFAULTACCEL}
+    \subitem {Roboclaw.Cmd}, \hyperpage{37}
+  \item {SetM1DefaultAccel}
+    \subitem {Roboclaw}, \hyperpage{81}
+  \item {SETM1ENCCOUNT}
+    \subitem {Roboclaw.Cmd}, \hyperpage{37}
+  \item {SETM1ENCODERMODE}
+    \subitem {Roboclaw.Cmd}, \hyperpage{37}
+  \item {SetM1EncoderMode}
+    \subitem {Roboclaw}, \hyperpage{81}
+  \item {SETM1MAXCURRENT}
+    \subitem {Roboclaw.Cmd}, \hyperpage{37}
+  \item {SetM1MaxCurrent}
+    \subitem {Roboclaw}, \hyperpage{81}
+  \item {SETM1PID}
+    \subitem {Roboclaw.Cmd}, \hyperpage{38}
+  \item {SetM1PositionPID}
+    \subitem {Roboclaw}, \hyperpage{81}
+  \item {SETM1POSPID}
+    \subitem {Roboclaw.Cmd}, \hyperpage{38}
+  \item {SetM1VelocityPID}
+    \subitem {Roboclaw}, \hyperpage{82}
+  \item {SETM2DEFAULTACCEL}
+    \subitem {Roboclaw.Cmd}, \hyperpage{38}
+  \item {SetM2DefaultAccel}
+    \subitem {Roboclaw}, \hyperpage{82}
+  \item {SETM2ENCCOUNT}
+    \subitem {Roboclaw.Cmd}, \hyperpage{38}
+  \item {SETM2ENCODERMODE}
+    \subitem {Roboclaw.Cmd}, \hyperpage{38}
+  \item {SetM2EncoderMode}
+    \subitem {Roboclaw}, \hyperpage{82}
+  \item {SETM2MAXCURRENT}
+    \subitem {Roboclaw.Cmd}, \hyperpage{38}
+  \item {SetM2MaxCurrent}
+    \subitem {Roboclaw}, \hyperpage{82}
+  \item {SETM2PID}
+    \subitem {Roboclaw.Cmd}, \hyperpage{38}
+  \item {SetM2PositionPID}
+    \subitem {Roboclaw}, \hyperpage{83}
+  \item {SETM2POSPID}
+    \subitem {Roboclaw.Cmd}, \hyperpage{38}
+  \item {SetM2VelocityPID}
+    \subitem {Roboclaw}, \hyperpage{83}
+  \item {SETMAINVOLTAGES}
+    \subitem {Roboclaw.Cmd}, \hyperpage{39}
+  \item {SetMainVoltages}
+    \subitem {Roboclaw}, \hyperpage{83}
+  \item {SETMAXLB}
+    \subitem {Roboclaw.Cmd}, \hyperpage{39}
+  \item {SETMAXMB}
+    \subitem {Roboclaw.Cmd}, \hyperpage{39}
+  \item {SetMaxVoltageLogicBattery}
+    \subitem {Roboclaw}, \hyperpage{83}
+  \item {SetMaxVoltageMainBattery}
+    \subitem {Roboclaw}, \hyperpage{84}
+  \item {SETMINLB}
+    \subitem {Roboclaw.Cmd}, \hyperpage{39}
+  \item {SETMINMB}
+    \subitem {Roboclaw.Cmd}, \hyperpage{39}
+  \item {SetMinVoltageLogicBattery}
+    \subitem {Roboclaw}, \hyperpage{84}
+  \item {SetMinVoltageMainBattery}
+    \subitem {Roboclaw}, \hyperpage{84}
+  \item {SETPINFUNCTIONS}
+    \subitem {Roboclaw.Cmd}, \hyperpage{39}
+  \item {SetPinFunctions}
+    \subitem {Roboclaw}, \hyperpage{84}
+  \item {SETPWMMODE}
+    \subitem {Roboclaw.Cmd}, \hyperpage{39}
+  \item {SetPWMMode}
+    \subitem {Roboclaw}, \hyperpage{84}
+  \item {setup}, \hyperpage{20}
+    \subitem {data\_files}, \hyperpage{20}
+    \subitem {description}, \hyperpage{20}
+    \subitem {entry\_points}, \hyperpage{20}
+    \subitem {install\_requires}, \hyperpage{20}
+    \subitem {license}, \hyperpage{20}
+    \subitem {maintainer}, \hyperpage{21}
+    \subitem {maintainer\_email}, \hyperpage{21}
+    \subitem {name}, \hyperpage{21}
+    \subitem {package\_name}, \hyperpage{21}
+    \subitem {packages}, \hyperpage{21}
+    \subitem {tests\_require}, \hyperpage{21}
+    \subitem {version}, \hyperpage{21}
+    \subitem {zip\_safe}, \hyperpage{21}
+  \item {speed\_publisher}
+    \subitem {ControlSubscriber}, \hyperpage{41}
+  \item {SpeedAccelDeccelPositionM1}
+    \subitem {Roboclaw}, \hyperpage{85}
+  \item {SpeedAccelDeccelPositionM1M2}
+    \subitem {Roboclaw}, \hyperpage{85}
+  \item {SpeedAccelDeccelPositionM2}
+    \subitem {Roboclaw}, \hyperpage{85}
+  \item {SpeedAccelDistanceM1}
+    \subitem {Roboclaw}, \hyperpage{86}
+  \item {SpeedAccelDistanceM1M2}
+    \subitem {Roboclaw}, \hyperpage{86}
+  \item {SpeedAccelDistanceM1M2\_2}
+    \subitem {Roboclaw}, \hyperpage{86}
+  \item {SpeedAccelDistanceM2}
+    \subitem {Roboclaw}, \hyperpage{87}
+  \item {SpeedAccelM1}
+    \subitem {Roboclaw}, \hyperpage{87}
+  \item {SpeedAccelM1M2}
+    \subitem {Roboclaw}, \hyperpage{87}
+  \item {SpeedAccelM1M2\_2}
+    \subitem {Roboclaw}, \hyperpage{87}
+  \item {SpeedAccelM2}
+    \subitem {Roboclaw}, \hyperpage{88}
+  \item {SpeedDistanceM1}
+    \subitem {Roboclaw}, \hyperpage{88}
+  \item {SpeedDistanceM1M2}
+    \subitem {Roboclaw}, \hyperpage{88}
+  \item {SpeedDistanceM2}
+    \subitem {Roboclaw}, \hyperpage{88}
+  \item {SpeedM1}
+    \subitem {Roboclaw}, \hyperpage{89}
+  \item {SpeedM1M2}
+    \subitem {Roboclaw}, \hyperpage{89}
+  \item {SpeedM2}
+    \subitem {Roboclaw}, \hyperpage{89}
+  \item {SPI\_DEVICE}
+    \subitem {oled\_interface}, \hyperpage{18}
+  \item {SPI\_PORT}
+    \subitem {oled\_interface}, \hyperpage{18}
+  \item {steering\_callback}
+    \subitem {SteeringInterface}, \hyperpage{92}
+  \item {steering\_publisher}
+    \subitem {ControlSubscriber}, \hyperpage{41}
+  \item {SteeringInterface}, \hyperpage{92}
+    \subitem {\_\_init\_\_}, \hyperpage{92}
+    \subitem {steering\_callback}, \hyperpage{92}
+    \subitem {subscription}, \hyperpage{93}
+  \item {subscription}
+    \subitem {BlinkersInterface}, \hyperpage{26}
+    \subitem {ControlSubscriber}, \hyperpage{41}
+    \subitem {ImageSubscriber}, \hyperpage{46}
+    \subitem {MotorInterface}, \hyperpage{47}
+    \subitem {OledInterface}, \hyperpage{49}
+    \subitem {SteeringInterface}, \hyperpage{93}
+
+  \indexspace
+
+  \item {tests\_require}
+    \subitem {setup}, \hyperpage{21}
+  \item {timeout}
+    \subitem {Roboclaw}, \hyperpage{91}
+  \item {timer}
+    \subitem {ImagePublisher}, \hyperpage{44}
+  \item {timer\_callback}
+    \subitem {ImagePublisher}, \hyperpage{43}
+  \item {top}
+    \subitem {oled\_interface}, \hyperpage{18}
+  \item {TurnLeftMixed}
+    \subitem {Roboclaw}, \hyperpage{89}
+  \item {TurnRightMixed}
+    \subitem {Roboclaw}, \hyperpage{90}
+
+  \indexspace
+
+  \item {version}
+    \subitem {setup}, \hyperpage{21}
+
+  \indexspace
+
+  \item {webcam\_pub}, \hyperpage{22}
+    \subitem {main}, \hyperpage{22}
+  \item {webcam\_sub}, \hyperpage{22}
+    \subitem {main}, \hyperpage{23}
+  \item {width}
+    \subitem {oled\_interface}, \hyperpage{18}
+  \item {WRITEEEPROM}
+    \subitem {Roboclaw.Cmd}, \hyperpage{39}
+  \item {WriteEeprom}
+    \subitem {Roboclaw}, \hyperpage{90}
+  \item {WRITENVM}
+    \subitem {Roboclaw.Cmd}, \hyperpage{40}
+  \item {WriteNVM}
+    \subitem {Roboclaw}, \hyperpage{90}
+
+  \indexspace
+
+  \item {x}
+    \subitem {oled\_interface}, \hyperpage{18}
+
+  \indexspace
+
+  \item {zip\_safe}
+    \subitem {setup}, \hyperpage{21}
+
+\end{theindex}
